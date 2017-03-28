@@ -164,6 +164,7 @@ return [
         Illuminate\View\ViewServiceProvider::class,
         \Collective\Html\HtmlServiceProvider::class,
         Barryvdh\Debugbar\ServiceProvider::class,
+        Laracasts\Generators\GeneratorsServiceProvider::class,
 
         /*
          * Package Service Providers...
